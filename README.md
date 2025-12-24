@@ -14,7 +14,7 @@
 
 ### 🚀 Featured Projects
 
-#### [📍 Google Maps Recommender System](https://github.com/[YourUsername]/google-maps-recommender)
+#### [📍 Google Maps Recommender System](https://github.com/Ferretelic/GoogleMapsRecommender)
 Arecommender system for Google Maps using **LightGCN**.
 * **Dataset:** 660M+ reviews from Google Local Data.
 * **Tech:** PyTorch, Hydra, DVC, MixGCF, SimGCL.
