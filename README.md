@@ -1,7 +1,5 @@
 # Hi there, I'm Ferretelic!
 
----
-
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,14 +21,3 @@ Arecommender system for Google Maps using **LightGCN**.
 * **Highlights:** Implemented custom graph convolution layers and achieved significant improvements in Recall@20 and NDCG@20.
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="left">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ferretelic&show_icons=true&theme=radical&count_private=true" alt="Stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferretelic&layout=compact&theme=radical" alt="Languages" />
-</a>
-</p>
