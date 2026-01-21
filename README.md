@@ -15,9 +15,15 @@
 ### 🚀 Featured Projects
 
 #### [📍 Google Maps Recommender System](https://github.com/Ferretelic/GoogleMapsRecommender)
-Arecommender system for Google Maps using **LightGCN**.
+A recommender system for Google Maps using **LightGCN**.
 * **Dataset:** 660M+ reviews from Google Local Data.
-* **Tech:** PyTorch, Hydra, DVC, MixGCF, SimGCL.
+* **Tech:** PyTorch, Hydra, MixGCF, SimGCL.
 * **Highlights:** Implemented custom graph convolution layers and achieved significant improvements in Recall@20 and NDCG@20.
 
 ---
+
+#### [🎬 Movie Lens Recommender System](https://github.com/Ferretelic/MovieLensRecommender)
+A recommender system for Movie Lens using **LightGCN**.
+* **Dataset:** 32M reviews from Movie Lens.
+* **Tech:** PyTorch, Hydra, MixGCF, SimGCL, FastAPI.
+* **Highlights:** Implemented custom graph convolution layers and achieved significant improvements in Recall@20 and NDCG@20.
